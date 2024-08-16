@@ -1,10 +1,8 @@
 # 👋 Hi there! I'm [@PavelOkhrimchuk](https://github.com/PavelOkhrimchuk)
 
 - 📫 **How to Reach Me**:
-  - [Email](mailto:okhrimchuk.pavel2005@gmail.com)
+  - <a href="mailto:okhrimchuk.pavel2005@gmail.com">okhrimchuk.pavel2005@gmail.com</a>
   - [Telegram](https://t.me/ohrimmm)
-
-
 
 ## 🛠️ Skills and Technologies
 
@@ -38,3 +36,4 @@
 - HTTP Servlets
 - RESTful APIs
 - gRPC
+
