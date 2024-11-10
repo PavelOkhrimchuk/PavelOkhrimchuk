@@ -1,4 +1,4 @@
-# [PavelOkhrimchuk, 19, Java Developer](https://github.com/PavelOkhrimchuk)
+# [PavelOkhrimchuk, Java Developer](https://github.com/PavelOkhrimchuk)
 
   **По всем вопросам :**
 
