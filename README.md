@@ -2,5 +2,5 @@
 
   **По всем вопросам :**
 
-  - <a href="mailto:okhrimchuk.pavel2005@gmail.com">okhrimchuk.pavel2005@gmail.com</a>
+  - <a href="mailto:pavelokhrimchuk@yandex.ru">pavelokhrimchuk@yandex.ru</a>
   - [Telegram](https://t.me/ohrimmm)
